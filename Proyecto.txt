@@ -1,0 +1,36 @@
+#include <string.h>
+#include <alloc.h>
+#include <iostream.h>
+#include <conio.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+struct ness{
+char nom[50], rank[50], patr[50], naci[50], estatura[30], tipo[30], ciudad[50], peso[50];
+int edad;
+struct ness *s,*a;
+}*c=NULL,*e=NULL,*p=NULL,*u=NULL;
+
+void menup (void);
+
+//PRIMER CORTE
+
+void pricor (void);
+
+//RECURSIVIDAD
+
+void recursividad (void);
+void rejm1 (void);
+void rejm2 (void);
+
+//ESTRUCTURA
+
+void estructura (void);
+void eejm1 (void);
+void eejm2 (void);
+
+//MATRICES-VECTORES
+
+void matrices (void);
+void mejm1 (void);
+void mejm2 (void);
