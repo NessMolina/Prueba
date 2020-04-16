@@ -34,3 +34,34 @@ void eejm2 (void);
 void matrices (void);
 void mejm1 (void);
 void mejm2 (void);
+
+//SEGUNDO CORTE
+
+void segcor (void);
+
+//LISTA SENCILLA
+
+void ls (void);
+void lsejm1 (void);
+void insertarls(); void verls(); void borrarls();
+
+//LISTA SENCILLA CIRCULAR
+
+void lsc (void);
+void lscejm1 (void);
+void insertarlsc(); void verlsc(); void borrarlsc();
+
+//LISTA DOBLEMENTE ENLAZADA
+
+void lde (void);
+void ldeejm1 (void);
+void insertardld(); void verdld(); void borrardld();
+void verild();void borrardespuesld();void borrarantesld();
+
+//LISTA CIRCULAR DOBLEMENTE ENLAZADA
+
+void lcde (void);
+void lcdeejm1 (void);
+void insertardlc(); void verdlc(); void borrardlc();
+void verilc();void borrardespueslc();void borraranteslc();
+
